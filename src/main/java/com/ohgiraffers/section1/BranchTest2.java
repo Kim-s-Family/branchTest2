@@ -6,5 +6,7 @@ public class BranchTest2 {
 
         System.out.println("featureMaster 호출함");
 
+        System.out.println("feature2 호출함");
+
     }
 }
